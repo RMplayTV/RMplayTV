@@ -42,18 +42,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/236860.ts
 http://cdn33.cc:80/ribeirinho/gs1200/236861.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney Plus [HD] 6" tvg-logo="" group-title="Canais | Disney Plus",Disney Plus [HD] 6
 http://cdn33.cc:80/ribeirinho/gs1200/236862.ts
-#EXTINF:-1 tvg-id="EPTVRIB" tvg-name="GLOBO EPTV RIBERAO PRETO [FHD][H265]" tvg-logo="http://p6.vc/AKE6" group-title="Canais | Globo",GLOBO EPTV RIBERAO PRETO [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/182689.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV EPTV RIBEIRAO PRETO [FHD]" tvg-logo="http://p6.vc/VDQ" group-title="Canais | Globo",GLOBO TV EPTV RIBEIRAO PRETO [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/199662.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV EPTV SAO CARLOS [HD]" tvg-logo="http://p6.vc/AUZ" group-title="Canais | Globo",GLOBO TV EPTV SAO CARLOS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/199663.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV EPTV SAO CARLOS [FHD]" tvg-logo="http://p6.vc/AUZ" group-title="Canais | Globo",GLOBO TV EPTV SAO CARLOS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/199664.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO JUIZ DE FORA [SD]" tvg-logo="http://p6.vc/VFH" group-title="Canais | Globo",GLOBO TV INTEGRACAO JUIZ DE FORA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/199787.ts
-#EXTINF:-1 tvg-id="ZYB402" tvg-name="GLOBO RPC CASCAVEL [SD]" tvg-logo="http://p6.vc/VFA" group-title="Canais | Globo",GLOBO RPC CASCAVEL [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/199788.ts
 #EXTINF:-1 tvg-id="" tvg-name="SporTV 4 [FHD][HDR]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SporTV 4 [FHD][HDR]
 http://cdn33.cc:80/ribeirinho/gs1200/233619.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://p6.vc/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
@@ -118,12 +106,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/122933.ts
 http://cdn33.cc:80/ribeirinho/gs1200/326.ts
 #EXTINF:-1 tvg-id="BR - AXN" tvg-name="AXN [SD] LEG" tvg-logo="http://p6.vc/WIC" group-title="Canais | Legendados",AXN [SD] LEG
 http://cdn33.cc:80/ribeirinho/gs1200/122934.ts
-#EXTINF:-1 tvg-id="BR - Band Campinas" tvg-name="BAND CAMPINAS [FHD]" tvg-logo="http://p6.vc/UAE" group-title="Canais | Abertos",BAND CAMPINAS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/123580.ts
-#EXTINF:-1 tvg-id="BR - Band Campinas" tvg-name="BAND CAMPINAS [HD]" tvg-logo="http://p6.vc/VVJ" group-title="Canais | Abertos",BAND CAMPINAS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/113587.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND CEARA [HD]" tvg-logo="http://p6.vc/VWR" group-title="Canais | Abertos",BAND CEARA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/186203.ts
 #EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [FHD]" tvg-logo="http://p6.vc/AWW" group-title="Canais | Notícias",BAND NEWS [FHD]
 http://cdn33.cc:80/ribeirinho/gs1200/510.ts
 #EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [FHD][H265]" tvg-logo="http://p6.vc/VNA" group-title="Canais | Notícias",BAND NEWS [FHD][H265]
@@ -132,14 +114,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/30195.ts
 http://cdn33.cc:80/ribeirinho/gs1200/514.ts
 #EXTINF:-1 tvg-id="BR - Band News" tvg-name="BAND NEWS [SD]" tvg-logo="http://p6.vc/VMV" group-title="Canais | Notícias",BAND NEWS [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/520.ts
-#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [FHD]" tvg-logo="http://p6.vc/VVL" group-title="Canais | Abertos",BAND RJ [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/122446.ts
-#EXTINF:-1 tvg-id="BR - Band RJ HD" tvg-name="BAND RJ [HD]" tvg-logo="http://p6.vc/VVM" group-title="Canais | Abertos",BAND RJ [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/122447.ts
-#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="BAND RS [HD]" tvg-logo="http://p6.vc/VWQ" group-title="Canais | Abertos",BAND RS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/123576.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND SERGIPE [HD]" tvg-logo="http://p6.vc/VWR" group-title="Canais | Abertos",BAND SERGIPE [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/123577.ts
 #EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="Band SP [4K]" tvg-logo="http://p6.vc/AZH" group-title="Canais | 4K",Band SP [4K]
 http://cdn33.cc:80/ribeirinho/gs1200/580.ts
 #EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND SP [FHD]" tvg-logo="http://p6.vc/VVH" group-title="Canais | Abertos",BAND SP [FHD]
@@ -156,20 +130,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/30275.ts
 http://cdn33.cc:80/ribeirinho/gs1200/256.ts
 #EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="BAND SPORTS [SD]" tvg-logo="http://p6.vc/AOO" group-title="Canais | Esportes",BAND SPORTS [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/265.ts
-#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="BAND TV GOIANIA [FHD][H265]" tvg-logo="http://p6.vc/UAB" group-title="Canais | Abertos",BAND TV GOIANIA [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/123575.ts
-#EXTINF:-1 tvg-id="BR - Band TV Goiânia" tvg-name="BAND TV GOIANIA [HD]" tvg-logo="http://p6.vc/UAA" group-title="Canais | Abertos",BAND TV GOIANIA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/123574.ts
-#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="BAND TV MINAS [FHD]" tvg-logo="http://p6.vc/UAH" group-title="Canais | Abertos",BAND TV MINAS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/123583.ts
-#EXTINF:-1 tvg-id="BR - Band Minas" tvg-name="BAND TV MINAS [HD]" tvg-logo="http://p6.vc/UAG" group-title="Canais | Abertos",BAND TV MINAS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/123582.ts
-#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV PR TAROBA [HD]" tvg-logo="http://p6.vc/UAC" group-title="Canais | Abertos",BAND TV PR TAROBA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/123578.ts
-#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV TAROBA CURITIBA [FHD]" tvg-logo="http://p6.vc/UAF" group-title="Canais | Abertos",BAND TV TAROBA CURITIBA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/123581.ts
-#EXTINF:-1 tvg-id="BR - Band Curitiba" tvg-name="BAND TV TAROBA CURITIBA [HD]" tvg-logo="http://p6.vc/UAD" group-title="Canais | Abertos",BAND TV TAROBA CURITIBA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/123579.ts
 #EXTINF:-1 tvg-id="BR - Band São Paulo" tvg-name="BAND [FHD][H265]" tvg-logo="http://p6.vc/VVK" group-title="Canais | Abertos",BAND [FHD][H265]
 http://cdn33.cc:80/ribeirinho/gs1200/113588.ts
 #EXTINF:-1 tvg-id="BR - BIS HD" tvg-name="BIS [FHD]" tvg-logo="http://p6.vc/ONP" group-title="Canais | Art & Music",BIS [FHD]
@@ -212,14 +172,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/30268.ts
 http://cdn33.cc:80/ribeirinho/gs1200/139.ts
 #EXTINF:-1 tvg-id="BR - Cartoon Network" tvg-name="CARTOON NETWORK [SD]" tvg-logo="http://p6.vc/AKM" group-title="Canais | Infantis",CARTOON NETWORK [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/151.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="CARTOONITO [FHD]" tvg-logo="http://p6.vc/AJO" group-title="Canais | Infantis",CARTOONITO [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/125.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="CARTOONITO [FHD][H265]" tvg-logo="http://p6.vc/WJB" group-title="Canais | Infantis",CARTOONITO [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/30267.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="CARTOONITO [HD]" tvg-logo="http://p6.vc/AKB" group-title="Canais | Infantis",CARTOONITO [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/138.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="CARTOONITO [SD]" tvg-logo="http://p6.vc/AKL" group-title="Canais | Infantis",CARTOONITO [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/150.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV [HD]" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos",CAZE TV [HD]
 http://cdn33.cc:80/ribeirinho/gs1200/134082.ts
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV [SD]" tvg-logo="http://p6.vc/VMB" group-title="Canais | Jogos & Eventos",CAZE TV [SD]
@@ -540,16 +492,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/93952.ts
 http://cdn33.cc:80/ribeirinho/gs1200/63123.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS [SD]" tvg-logo="http://p6.vc/VOM" group-title="Canais | Jogos & Eventos",ESTADIO TNT SPORTS [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/63124.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV PRO 01 [HD]" tvg-logo="http://p6.vc/VPL" group-title="Canais | Jogos & Eventos",F1 TV PRO 01 [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/116349.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV PRO 02 [HD]" tvg-logo="http://p6.vc/VPK" group-title="Canais | Jogos & Eventos",F1 TV PRO 02 [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/116348.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV PRO 03 [HD]" tvg-logo="http://p6.vc/VPJ" group-title="Canais | Jogos & Eventos",F1 TV PRO 03 [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/116347.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV PRO 04 [HD]" tvg-logo="http://p6.vc/VPI" group-title="Canais | Jogos & Eventos",F1 TV PRO 04 [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/116346.ts
-#EXTINF:-1 tvg-id="BR - Fashion TV" tvg-name="FASHIONTV [FHD][H265]" tvg-logo="http://p6.vc/ONT" group-title="Canais | Art & Music",FASHIONTV [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/30184.ts
 #EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="FILM&ARTS [HD]" tvg-logo="http://p6.vc/WKJ" group-title="Canais | Filmes e Séries",FILM&ARTS [HD]
 http://cdn33.cc:80/ribeirinho/gs1200/92668.ts
 #EXTINF:-1 tvg-id="BR - Film & Arts" tvg-name="FILM&ARTS [SD]" tvg-logo="http://p6.vc/ARO" group-title="Canais | Filmes e Séries",FILM&ARTS [SD]
@@ -600,50 +542,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/123506.ts
 http://cdn33.cc:80/ribeirinho/gs1200/333.ts
 #EXTINF:-1 tvg-id="BR - FX" tvg-name="FX [SD] LEG" tvg-logo="http://p6.vc/WII" group-title="Canais | Legendados",FX [SD] LEG
 http://cdn33.cc:80/ribeirinho/gs1200/123507.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV ARARAQUARA [SD]" tvg-logo="http://p6.vc/AVA" group-title="Canais | Globo",GLOBO EPTV ARARAQUARA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/460.ts
-#EXTINF:-1 tvg-id="BR - EPTV Ribeirão Preto HD" tvg-name="GLOBO EPTV RIBERAO PRETO [FHD]" tvg-logo="http://p6.vc/VGL" group-title="Canais | Globo",GLOBO EPTV RIBERAO PRETO [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/122760.ts
-#EXTINF:-1 tvg-id="BR - EPTV Ribeirão Preto" tvg-name="GLOBO EPTV RIBERAO PRETO [FHD][H265]" tvg-logo="http://p6.vc/VGM" group-title="Canais | Globo",GLOBO EPTV RIBERAO PRETO [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/122761.ts
-#EXTINF:-1 tvg-id="BR - Globo" tvg-name="GLOBO EPTV RIBERAO PRETO [SD]" tvg-logo="http://p6.vc/VCU" group-title="Canais | Globo",GLOBO EPTV RIBERAO PRETO [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/422.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRACAO ARAXA [FHD]" tvg-logo="http://p6.vc/VEN" group-title="Canais | Globo",GLOBO INTEGRACAO ARAXA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/43847.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRACAO ARAXA [HD]" tvg-logo="http://p6.vc/VEF" group-title="Canais | Globo",GLOBO INTEGRACAO ARAXA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/43835.ts
-#EXTINF:-1 tvg-id="BR - TV Integração Araxá" tvg-name="GLOBO INTEGRACAO ARAXA [SD]" tvg-logo="http://p6.vc/VGD" group-title="Canais | Globo",GLOBO INTEGRACAO ARAXA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/121124.ts
-#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL [FHD]" tvg-logo="http://p6.vc/VEL" group-title="Canais | Globo",GLOBO INTER TV ALTO LITORAL [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/43844.ts
-#EXTINF:-1 tvg-id="BR - InterTV Alto Literal HD" tvg-name="GLOBO INTER TV ALTO LITORAL [HD]" tvg-logo="http://p6.vc/ATM" group-title="Canais | Globo",GLOBO INTER TV ALTO LITORAL [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/407.ts
-#EXTINF:-1 tvg-id="BR - Inter TV Alto Litoral" tvg-name="GLOBO INTER TV ALTO LITORAL [SD]" tvg-logo="http://p6.vc/AUO" group-title="Canais | Globo",GLOBO INTER TV ALTO LITORAL [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/443.ts
-#EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="GLOBO INTER TV DOS VALES [FHD]" tvg-logo="http://p6.vc/ASJ" group-title="Canais | Globo",GLOBO INTER TV DOS VALES [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/373.ts
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO INTER TV DOS VALES [HD]" tvg-logo="http://p6.vc/ATN" group-title="Canais | Globo",GLOBO INTER TV DOS VALES [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/408.ts
-#EXTINF:-1 tvg-id="Inter TV dos Vales" tvg-name="GLOBO INTER TV DOS VALES [SD]" tvg-logo="http://p6.vc/AUP" group-title="Canais | Globo",GLOBO INTER TV DOS VALES [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/444.ts
-#EXTINF:-1 tvg-id="Inter TV Grande Minas" tvg-name="GLOBO INTER TV GRANDE MINAS [FHD]" tvg-logo="http://p6.vc/VCN" group-title="Canais | Globo",GLOBO INTER TV GRANDE MINAS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/374.ts
-#EXTINF:-1 tvg-id="BR - InterTV Grande Minas HD" tvg-name="GLOBO INTER TV GRANDE MINAS [HD]" tvg-logo="http://p6.vc/ATO" group-title="Canais | Globo",GLOBO INTER TV GRANDE MINAS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/409.ts
-#EXTINF:-1 tvg-id="BR - InterTV Grande Minas" tvg-name="GLOBO INTER TV GRANDE MINAS [SD]" tvg-logo="http://p6.vc/AUQ" group-title="Canais | Globo",GLOBO INTER TV GRANDE MINAS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/445.ts
-#EXTINF:-1 tvg-id="BR - InterTV Serra Mar" tvg-name="GLOBO INTER TV SERRA MAR [FHD]" tvg-logo="http://p6.vc/ASK" group-title="Canais | Globo",GLOBO INTER TV SERRA MAR [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/375.ts
-#EXTINF:-1 tvg-id="BR - InterTV Serra Mar HD" tvg-name="GLOBO INTER TV SERRA MAR [HD]" tvg-logo="http://p6.vc/ATP" group-title="Canais | Globo",GLOBO INTER TV SERRA MAR [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/410.ts
-#EXTINF:-1 tvg-id="BR - InterTV Serra Mar" tvg-name="GLOBO INTER TV SERRA MAR [SD]" tvg-logo="http://p6.vc/VCZ" group-title="Canais | Globo",GLOBO INTER TV SERRA MAR [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/446.ts
-#EXTINF:-1 tvg-id="CABUGIH" tvg-name="GLOBO INTERTV CABUGI NATAL [FHD]" tvg-logo="http://p6.vc/VER" group-title="Canais | Globo",GLOBO INTERTV CABUGI NATAL [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/43856.ts
-#EXTINF:-1 tvg-id="CABUGIH" tvg-name="GLOBO INTERTV CABUGI NATAL [HD]" tvg-logo="http://p6.vc/VDD" group-title="Canais | Globo",GLOBO INTERTV CABUGI NATAL [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/457.ts
-#EXTINF:-1 tvg-id="CABUGIH" tvg-name="GLOBO INTERTV CABUGI NATAL [SD]" tvg-logo="http://p6.vc/VDO" group-title="Canais | Globo",GLOBO INTERTV CABUGI NATAL [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/32429.ts
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News [4K]" tvg-logo="http://p6.vc/VNF" group-title="Canais | 4K",Globo News [4K]
 http://cdn33.cc:80/ribeirinho/gs1200/50864.ts
 #EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [FHD]" tvg-logo="http://p6.vc/AWY" group-title="Canais | Notícias",GLOBO NEWS [FHD]
@@ -654,52 +552,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/30196.ts
 http://cdn33.cc:80/ribeirinho/gs1200/516.ts
 #EXTINF:-1 tvg-id="BR - Globo News" tvg-name="GLOBO NEWS [SD]" tvg-logo="http://p6.vc/AXG" group-title="Canais | Notícias",GLOBO NEWS [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/522.ts
-#EXTINF:-1 tvg-id="RBSBLHD" tvg-name="GLOBO NSC TV BLUMENAU [FHD]" tvg-logo="http://p6.vc/ASL" group-title="Canais | Globo",GLOBO NSC TV BLUMENAU [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/376.ts
-#EXTINF:-1 tvg-id="BR - NSC TV Blumenau HD" tvg-name="GLOBO NSC TV BLUMENAU [HD]" tvg-logo="http://p6.vc/ATQ" group-title="Canais | Globo",GLOBO NSC TV BLUMENAU [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/411.ts
-#EXTINF:-1 tvg-id="BR - NSC TV Blumenau" tvg-name="GLOBO NSC TV BLUMENAU [SD]" tvg-logo="http://p6.vc/AUR" group-title="Canais | Globo",GLOBO NSC TV BLUMENAU [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/447.ts
-#EXTINF:-1 tvg-id="NSCTVCriciuma.br" tvg-name="GLOBO NSC TV CRICIUMA [FHD]" tvg-logo="http://p6.vc/VEJ" group-title="Canais | Globo",GLOBO NSC TV CRICIUMA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/43842.ts
-#EXTINF:-1 tvg-id="NSCTVCriciuma.br" tvg-name="GLOBO NSC TV CRICIUMA [HD]" tvg-logo="http://p6.vc/VEC" group-title="Canais | Globo",GLOBO NSC TV CRICIUMA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/43828.ts
-#EXTINF:-1 tvg-id="BR - NSC TV Criciúma" tvg-name="GLOBO NSC TV CRICIUMA [SD]" tvg-logo="http://p6.vc/VGG" group-title="Canais | Globo",GLOBO NSC TV CRICIUMA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/121127.ts
-#EXTINF:-1 tvg-id="RBS TV Caxias do Sul" tvg-name="GLOBO RBS TV CAXIAS DO SUL [FHD]" tvg-logo="http://p6.vc/ASM" group-title="Canais | Globo",GLOBO RBS TV CAXIAS DO SUL [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/377.ts
-#EXTINF:-1 tvg-id="BR - RBS TV Caxias do Sul HD" tvg-name="GLOBO RBS TV CAXIAS DO SUL [HD]" tvg-logo="http://p6.vc/ATR" group-title="Canais | Globo",GLOBO RBS TV CAXIAS DO SUL [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/412.ts
-#EXTINF:-1 tvg-id="RBS TV Caxias do Sul" tvg-name="GLOBO RBS TV CAXIAS DO SUL [SD]" tvg-logo="http://p6.vc/AUS" group-title="Canais | Globo",GLOBO RBS TV CAXIAS DO SUL [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/448.ts
-#EXTINF:-1 tvg-id="RBS TV Pelotas" tvg-name="GLOBO RBS TV PELOTAS [FHD]" tvg-logo="http://p6.vc/VCP" group-title="Canais | Globo",GLOBO RBS TV PELOTAS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/379.ts
-#EXTINF:-1 tvg-id="BR - RBS TV Porto Alegre HD" tvg-name="GLOBO RBS TV PELOTAS [HD]" tvg-logo="http://p6.vc/ATS" group-title="Canais | Globo",GLOBO RBS TV PELOTAS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/414.ts
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO RBS TV PELOTAS [SD]" tvg-logo="http://p6.vc/VDA" group-title="Canais | Globo",GLOBO RBS TV PELOTAS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/450.ts
-#EXTINF:-1 tvg-id="BR - RBS TV Santa Maria HD" tvg-name="GLOBO RBS TV SANTA MARIA [FHD]" tvg-logo="http://p6.vc/VEQ" group-title="Canais | Globo",GLOBO RBS TV SANTA MARIA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/43855.ts
-#EXTINF:-1 tvg-id="BR - RBS TV Santa Maria HD" tvg-name="GLOBO RBS TV SANTA MARIA [HD]" tvg-logo="http://p6.vc/VEH" group-title="Canais | Globo",GLOBO RBS TV SANTA MARIA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/43839.ts
-#EXTINF:-1 tvg-id="RBSSMAR" tvg-name="GLOBO RBS TV SANTA MARIA [SD]" tvg-logo="http://p6.vc/VEI" group-title="Canais | Globo",GLOBO RBS TV SANTA MARIA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/43840.ts
-#EXTINF:-1 tvg-id="Rede Amazônica Boa Vista" tvg-name="GLOBO REDE AMAZONICA BOA VISTA [FHD]" tvg-logo="http://p6.vc/VEV" group-title="Canais | Globo",GLOBO REDE AMAZONICA BOA VISTA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/56128.ts
-#EXTINF:-1 tvg-id="Rede Amazônica Boa Vista" tvg-name="GLOBO REDE AMAZONICA BOA VISTA [HD]" tvg-logo="http://p6.vc/VEW" group-title="Canais | Globo",GLOBO REDE AMAZONICA BOA VISTA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/56129.ts
-#EXTINF:-1 tvg-id="BR - TV Boa Vista" tvg-name="GLOBO REDE AMAZONICA BOA VISTA [SD]" tvg-logo="http://p6.vc/VEV" group-title="Canais | Globo",GLOBO REDE AMAZONICA BOA VISTA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/134305.ts
-#EXTINF:-1 tvg-id="Rede Amazônica Porto Velho" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO [FHD]" tvg-logo="http://p6.vc/VEY" group-title="Canais | Globo",GLOBO REDE AMAZONICA PORTO VELHO [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/56131.ts
-#EXTINF:-1 tvg-id="Rede Amazônica Porto Velho" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO [HD]" tvg-logo="http://p6.vc/VEX" group-title="Canais | Globo",GLOBO REDE AMAZONICA PORTO VELHO [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/56130.ts
-#EXTINF:-1 tvg-id="BR - TV Rondônia" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO [SD]" tvg-logo="http://p6.vc/VEX" group-title="Canais | Globo",GLOBO REDE AMAZONICA PORTO VELHO [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/134304.ts
-#EXTINF:-1 tvg-id="BR - RPC Cascavel" tvg-name="GLOBO RPC CASCAVEL [FHD]" tvg-logo="http://p6.vc/VGA" group-title="Canais | Globo",GLOBO RPC CASCAVEL [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/121121.ts
-#EXTINF:-1 tvg-id="BR - RPC Cascavel" tvg-name="GLOBO RPC CASCAVEL [HD]" tvg-logo="http://p6.vc/VFA" group-title="Canais | Globo",GLOBO RPC CASCAVEL [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/56133.ts
 #EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="Globo SP [4K]" tvg-logo="http://p6.vc/VDE" group-title="Canais | 4K",Globo SP [4K]
 http://cdn33.cc:80/ribeirinho/gs1200/582.ts
 #EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [FHD]" tvg-logo="http://p6.vc/ATA" group-title="Canais | Globo",GLOBO SP [FHD]
@@ -710,278 +562,12 @@ http://cdn33.cc:80/ribeirinho/gs1200/30205.ts
 http://cdn33.cc:80/ribeirinho/gs1200/394.ts
 #EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO SP [SD]" tvg-logo="http://p6.vc/AUE" group-title="Canais | Globo",GLOBO SP [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/429.ts
-#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="GLOBO TEM S. J. DO RIO PRETO [SD]" tvg-logo="http://p6.vc/AUG" group-title="Canais | Globo",GLOBO TEM S. J. DO RIO PRETO [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/432.ts
-#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO TV ANHANGUERA [FHD]" tvg-logo="http://p6.vc/ASD" group-title="Canais | Globo",GLOBO TV ANHANGUERA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/366.ts
-#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO TV ANHANGUERA [HD]" tvg-logo="http://p6.vc/ATB" group-title="Canais | Globo",GLOBO TV ANHANGUERA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/395.ts
-#EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-name="GLOBO TV ANHANGUERA [SD]" tvg-logo="http://p6.vc/VDM" group-title="Canais | Globo",GLOBO TV ANHANGUERA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/32427.ts
-#EXTINF:-1 tvg-id="ASABRHD" tvg-name="GLOBO TV ASA BRANCA [FHD]" tvg-logo="http://p6.vc/VEP" group-title="Canais | Globo",GLOBO TV ASA BRANCA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/43853.ts
-#EXTINF:-1 tvg-id="BR - TV Asa Branca HD" tvg-name="GLOBO TV ASA BRANCA [HD]" tvg-logo="http://p6.vc/VGC" group-title="Canais | Globo",GLOBO TV ASA BRANCA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/121123.ts
-#EXTINF:-1 tvg-id="ASABRHD" tvg-name="GLOBO TV ASA BRANCA [SD]" tvg-logo="http://p6.vc/VDN" group-title="Canais | Globo",GLOBO TV ASA BRANCA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/32428.ts
-#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="GLOBO TV BAHIA [FHD]" tvg-logo="http://p6.vc/ASE" group-title="Canais | Globo",GLOBO TV BAHIA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/367.ts
-#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="GLOBO TV BAHIA [HD]" tvg-logo="http://p6.vc/ATC" group-title="Canais | Globo",GLOBO TV BAHIA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/396.ts
-#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="GLOBO TV BAHIA [SD]" tvg-logo="http://p6.vc/VCW" group-title="Canais | Globo",GLOBO TV BAHIA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/431.ts
-#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO TV BRASILIA [FHD]" tvg-logo="http://p6.vc/VCL" group-title="Canais | Globo",GLOBO TV BRASILIA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/360.ts
-#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO TV BRASILIA [HD]" tvg-logo="http://p6.vc/ASS" group-title="Canais | Globo",GLOBO TV BRASILIA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/385.ts
-#EXTINF:-1 tvg-id="BR - Globo Brasília" tvg-name="GLOBO TV BRASILIA [SD]" tvg-logo="http://p6.vc/ATX" group-title="Canais | Globo",GLOBO TV BRASILIA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/420.ts
-#EXTINF:-1 tvg-id="BR - TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO [FHD]" tvg-logo="http://p6.vc/ASN" group-title="Canais | Globo",GLOBO TV CABO BRANCO [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/380.ts
-#EXTINF:-1 tvg-id="BR - TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO [HD]" tvg-logo="http://p6.vc/ATT" group-title="Canais | Globo",GLOBO TV CABO BRANCO [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/415.ts
-#EXTINF:-1 tvg-id="BR - TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO [SD]" tvg-logo="http://p6.vc/AUU" group-title="Canais | Globo",GLOBO TV CABO BRANCO [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/451.ts
-#EXTINF:-1 tvg-id="BR - TV Centro América Cuiabá HD" tvg-name="GLOBO TV CENTRO AMERICA CUIABA [FHD]" tvg-logo="http://p6.vc/VEO" group-title="Canais | Globo",GLOBO TV CENTRO AMERICA CUIABA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/43848.ts
-#EXTINF:-1 tvg-id="BR - TV Centro América Cuiabá HD" tvg-name="GLOBO TV CENTRO AMERICA CUIABA [HD]" tvg-logo="http://p6.vc/VEG" group-title="Canais | Globo",GLOBO TV CENTRO AMERICA CUIABA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/43837.ts
-#EXTINF:-1 tvg-id="BR - TV Centro América Cuiabá HD" tvg-name="GLOBO TV CENTRO AMERICA CUIABA [SD]" tvg-logo="http://p6.vc/VDT" group-title="Canais | Globo",GLOBO TV CENTRO AMERICA CUIABA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/34011.ts
-#EXTINF:-1 tvg-id="BR - Globo Teresina" tvg-name="GLOBO TV CLUBE TERESINA [FHD]" tvg-logo="http://p6.vc/ARV" group-title="Canais | Globo",GLOBO TV CLUBE TERESINA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/357.ts
-#EXTINF:-1 tvg-id="BR - Globo Teresina" tvg-name="GLOBO TV CLUBE TERESINA [HD]" tvg-logo="http://p6.vc/ATG" group-title="Canais | Globo",GLOBO TV CLUBE TERESINA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/400.ts
-#EXTINF:-1 tvg-id="BR - Globo Teresina" tvg-name="GLOBO TV CLUBE TERESINA [SD]" tvg-logo="http://p6.vc/VCY" group-title="Canais | Globo",GLOBO TV CLUBE TERESINA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/437.ts
-#EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [FHD]" tvg-logo="http://p6.vc/ARY" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/361.ts
-#EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [FHD][H265]" tvg-logo="http://p6.vc/VDF" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/30199.ts
-#EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [HD]" tvg-logo="http://p6.vc/VCQ" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/386.ts
-#EXTINF:-1 tvg-id="EPTV.Campinas.HD.br" tvg-name="GLOBO TV EPTV CAMPINAS [SD]" tvg-logo="http://p6.vc/ATY" group-title="Canais | Globo",GLOBO TV EPTV CAMPINAS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/421.ts
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO TV EPTV RIBEIRAO PRETO [FHD][H265]" tvg-logo="http://p6.vc/VDJ" group-title="Canais | Globo",GLOBO TV EPTV RIBEIRAO PRETO [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/30203.ts
-#EXTINF:-1 tvg-id="BR - Globo" tvg-name="GLOBO TV EPTV RIBEIRAO PRETO [HD]" tvg-logo="http://p6.vc/AST" group-title="Canais | Globo",GLOBO TV EPTV RIBEIRAO PRETO [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/387.ts
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO TV EPTV RIBEIRAO PRETO [SD]" tvg-logo="http://p6.vc/VDQ" group-title="Canais | Globo",GLOBO TV EPTV RIBEIRAO PRETO [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/32431.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV EPTV SAO CARLOS [SD]" tvg-logo="http://p6.vc/AUZ" group-title="Canais | Globo",GLOBO TV EPTV SAO CARLOS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/459.ts
-#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV EPTV SUL DE MINAS [FHD]" tvg-logo="http://p6.vc/VFV" group-title="Canais | Globo",GLOBO TV EPTV SUL DE MINAS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/109984.ts
-#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV EPTV SUL DE MINAS [HD]" tvg-logo="http://p6.vc/VFU" group-title="Canais | Globo",GLOBO TV EPTV SUL DE MINAS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/109983.ts
-#EXTINF:-1 tvg-id="BR - EPTV Sul de Minas HD" tvg-name="GLOBO TV EPTV SUL DE MINAS [SD]" tvg-logo="http://p6.vc/VFT" group-title="Canais | Globo",GLOBO TV EPTV SUL DE MINAS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/109982.ts
-#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [FHD]" tvg-logo="http://p6.vc/VGB" group-title="Canais | Globo",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/121122.ts
-#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [HD]" tvg-logo="http://p6.vc/VEU" group-title="Canais | Globo",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/56127.ts
-#EXTINF:-1 tvg-id="BR - TV Fronteira" tvg-name="GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [SD]" tvg-logo="http://p6.vc/VET" group-title="Canais | Globo",GLOBO TV FRONTEIRA PRESIDENTE PRUDENTE [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/56126.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS [FHD]" tvg-logo="http://p6.vc/ASH" group-title="Canais | Globo",GLOBO TV GAZETA ALAGOAS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/371.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS [HD]" tvg-logo="http://p6.vc/VCR" group-title="Canais | Globo",GLOBO TV GAZETA ALAGOAS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/405.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS [SD]" tvg-logo="http://p6.vc/AUN" group-title="Canais | Globo",GLOBO TV GAZETA ALAGOAS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/442.ts
-#EXTINF:-1 tvg-id="BR - TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL ES [FHD]" tvg-logo="http://p6.vc/ASI" group-title="Canais | Globo",GLOBO TV GAZETA SUL ES [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/372.ts
-#EXTINF:-1 tvg-id="BR - TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL ES [HD]" tvg-logo="http://p6.vc/ATL" group-title="Canais | Globo",GLOBO TV GAZETA SUL ES [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/406.ts
-#EXTINF:-1 tvg-id="BR - TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL ES [SD]" tvg-logo="http://p6.vc/VDZ" group-title="Canais | Globo",GLOBO TV GAZETA SUL ES [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/43825.ts
-#EXTINF:-1 tvg-id="BR - TV Vitória HD" tvg-name="GLOBO TV GAZETA VITORIA [FHD]" tvg-logo="http://p6.vc/ARW" group-title="Canais | Globo",GLOBO TV GAZETA VITORIA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/358.ts
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO TV GAZETA VITORIA [HD]" tvg-logo="http://p6.vc/ATH" group-title="Canais | Globo",GLOBO TV GAZETA VITORIA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/401.ts
-#EXTINF:-1 tvg-id="BR - TV Vitória" tvg-name="GLOBO TV GAZETA VITORIA [SD]" tvg-logo="http://p6.vc/AUJ" group-title="Canais | Globo",GLOBO TV GAZETA VITORIA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/438.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO JUIZ DE FORA [FHD]" tvg-logo="http://p6.vc/VFI" group-title="Canais | Globo",GLOBO TV INTEGRACAO JUIZ DE FORA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/65249.ts
-#EXTINF:-1 tvg-id="intertvmg" tvg-name="GLOBO TV INTEGRACAO JUIZ DE FORA [HD]" tvg-logo="http://p6.vc/VFH" group-title="Canais | Globo",GLOBO TV INTEGRACAO JUIZ DE FORA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/65248.ts
-#EXTINF:-1 tvg-id="BR - TV Integração Uberaba" tvg-name="GLOBO TV INTEGRACAO UBERABA [FHD]" tvg-logo="http://p6.vc/VGV" group-title="Canais | Globo",GLOBO TV INTEGRACAO UBERABA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/122770.ts
-#EXTINF:-1 tvg-id="BR - TV Integração Uberaba" tvg-name="GLOBO TV INTEGRACAO UBERABA [HD]" tvg-logo="http://p6.vc/VFB" group-title="Canais | Globo",GLOBO TV INTEGRACAO UBERABA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/56138.ts
-#EXTINF:-1 tvg-id="BR - TV Integração Uberaba" tvg-name="GLOBO TV INTEGRACAO UBERABA [SD]" tvg-logo="http://p6.vc/VGW" group-title="Canais | Globo",GLOBO TV INTEGRACAO UBERABA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/122771.ts
-#EXTINF:-1 tvg-id="BR - Globo Belém Liberal" tvg-name="GLOBO TV LIBERAL BELEM [FHD]" tvg-logo="http://p6.vc/VFX" group-title="Canais | Globo",GLOBO TV LIBERAL BELEM [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/119987.ts
-#EXTINF:-1 tvg-id="BR - Globo Belém Liberal" tvg-name="GLOBO TV LIBERAL BELEM [HD]" tvg-logo="http://p6.vc/VDX" group-title="Canais | Globo",GLOBO TV LIBERAL BELEM [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/43818.ts
-#EXTINF:-1 tvg-id="BR - Globo Belém Liberal" tvg-name="GLOBO TV LIBERAL BELEM [SD]" tvg-logo="http://p6.vc/AUX" group-title="Canais | Globo",GLOBO TV LIBERAL BELEM [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/455.ts
-#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="GLOBO TV MINAS [FHD]" tvg-logo="http://p6.vc/ARZ" group-title="Canais | Globo",GLOBO TV MINAS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/362.ts
-#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="GLOBO TV MINAS [HD]" tvg-logo="http://p6.vc/ASU" group-title="Canais | Globo",GLOBO TV MINAS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/388.ts
-#EXTINF:-1 tvg-id="BR - Globo Minas" tvg-name="GLOBO TV MINAS [SD]" tvg-logo="http://p6.vc/ATZ" group-title="Canais | Globo",GLOBO TV MINAS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/423.ts
-#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [FHD]" tvg-logo="http://p6.vc/ASF" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/368.ts
-#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [HD]" tvg-logo="http://p6.vc/ATJ" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/403.ts
-#EXTINF:-1 tvg-id="MIRSLHD" tvg-name="GLOBO TV MIRANTE SAO LUIS [SD]" tvg-logo="http://p6.vc/AUL" group-title="Canais | Globo",GLOBO TV MIRANTE SAO LUIS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/440.ts
-#EXTINF:-1 tvg-id="tvmorena" tvg-name="GLOBO TV MORENA CAMPO GRANDE [FHD]" tvg-logo="http://p6.vc/ASG" group-title="Canais | Globo",GLOBO TV MORENA CAMPO GRANDE [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/369.ts
-#EXTINF:-1 tvg-id="tvmorena" tvg-name="GLOBO TV MORENA CAMPO GRANDE [HD]" tvg-logo="http://p6.vc/ATK" group-title="Canais | Globo",GLOBO TV MORENA CAMPO GRANDE [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/404.ts
-#EXTINF:-1 tvg-id="tvmorena" tvg-name="GLOBO TV MORENA CAMPO GRANDE [SD]" tvg-logo="http://p6.vc/AUM" group-title="Canais | Globo",GLOBO TV MORENA CAMPO GRANDE [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/441.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="GLOBO TV NORDESTE [FHD]" tvg-logo="http://p6.vc/ASA" group-title="Canais | Globo",GLOBO TV NORDESTE [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/363.ts
-#EXTINF:-1 tvg-id="Regionais - globonordeste" tvg-name="GLOBO TV NORDESTE [FHD][H265]" tvg-logo="http://p6.vc/VDH" group-title="Canais | Globo",GLOBO TV NORDESTE [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/30201.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="GLOBO TV NORDESTE [HD]" tvg-logo="http://p6.vc/ASV" group-title="Canais | Globo",GLOBO TV NORDESTE [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/389.ts
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="GLOBO TV NORDESTE [SD]" tvg-logo="http://p6.vc/VCV" group-title="Canais | Globo",GLOBO TV NORDESTE [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/424.ts
-#EXTINF:-1 tvg-id="NSCTVJoinville.br" tvg-name="GLOBO TV NSC JOINVILLE [FHD]" tvg-logo="http://p6.vc/VCO" group-title="Canais | Globo",GLOBO TV NSC JOINVILLE [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/378.ts
-#EXTINF:-1 tvg-id="BR - NSC TV Joinville HD" tvg-name="GLOBO TV NSC JOINVILLE [HD]" tvg-logo="http://p6.vc/VCS" group-title="Canais | Globo",GLOBO TV NSC JOINVILLE [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/413.ts
-#EXTINF:-1 tvg-id="NSCTVJoinville.br" tvg-name="GLOBO TV NSC JOINVILLE [SD]" tvg-logo="http://p6.vc/AUT" group-title="Canais | Globo",GLOBO TV NSC JOINVILLE [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/449.ts
-#EXTINF:-1 tvg-id="BR - NSC TV Florianópolis HD" tvg-name="GLOBO TV NSC TV FLORIANOPOLIS [FHD]" tvg-logo="http://p6.vc/ASB" group-title="Canais | Globo",GLOBO TV NSC TV FLORIANOPOLIS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/364.ts
-#EXTINF:-1 tvg-id="BR - NSC TV Florianópolis HD" tvg-name="GLOBO TV NSC TV FLORIANOPOLIS [HD]" tvg-logo="http://p6.vc/ASW" group-title="Canais | Globo",GLOBO TV NSC TV FLORIANOPOLIS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/390.ts
-#EXTINF:-1 tvg-id="BR - NSC TV Florianópolis HD" tvg-name="GLOBO TV NSC TV FLORIANOPOLIS [SD]" tvg-logo="http://p6.vc/AUA" group-title="Canais | Globo",GLOBO TV NSC TV FLORIANOPOLIS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/425.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV PASSO FUNDO [HD]" tvg-logo="http://p6.vc/WIR" group-title="Canais | Globo",GLOBO TV PASSO FUNDO [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/132950.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV PASSO FUNDO [SD]" tvg-logo="http://p6.vc/WIR" group-title="Canais | Globo",GLOBO TV PASSO FUNDO [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/132951.ts
-#EXTINF:-1 tvg-id="RBSPAHD" tvg-name="GLOBO TV RBS PORTO ALEGRE [FHD]" tvg-logo="http://p6.vc/ASC" group-title="Canais | Globo",GLOBO TV RBS PORTO ALEGRE [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/365.ts
-#EXTINF:-1 tvg-id="GLBRBSP" tvg-name="GLOBO TV RBS PORTO ALEGRE [HD]" tvg-logo="http://p6.vc/ASX" group-title="Canais | Globo",GLOBO TV RBS PORTO ALEGRE [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/391.ts
-#EXTINF:-1 tvg-id="RBSPAHD" tvg-name="GLOBO TV RBS PORTO ALEGRE [SD]" tvg-logo="http://p6.vc/VDV" group-title="Canais | Globo",GLOBO TV RBS PORTO ALEGRE [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/34013.ts
-#EXTINF:-1 tvg-id="BR - Rede Amazônica Manaus HD" tvg-name="GLOBO TV REDE AMAZONICA MANAUS [FHD]" tvg-logo="http://p6.vc/VFF" group-title="Canais | Globo",GLOBO TV REDE AMAZONICA MANAUS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/59558.ts
-#EXTINF:-1 tvg-id="RedeAmazonica.br" tvg-name="GLOBO TV REDE AMAZONICA MANAUS [HD]" tvg-logo="http://p6.vc/VEZ" group-title="Canais | Globo",GLOBO TV REDE AMAZONICA MANAUS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/56132.ts
-#EXTINF:-1 tvg-id="São Paulo/SP  Telecine Premium HD ³" tvg-name="GLOBO TV REDE AMAZONICA MANAUS [SD]" tvg-logo="http://p6.vc/VDP" group-title="Canais | Globo",GLOBO TV REDE AMAZONICA MANAUS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/32430.ts
-#EXTINF:-1 tvg-id="RIOSULH" tvg-name="GLOBO TV RIO SUL [FHD]" tvg-logo="http://p6.vc/ASO" group-title="Canais | Globo",GLOBO TV RIO SUL [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/381.ts
-#EXTINF:-1 tvg-id="BR - TV Rio Sul HD" tvg-name="GLOBO TV RIO SUL [HD]" tvg-logo="http://p6.vc/ATU" group-title="Canais | Globo",GLOBO TV RIO SUL [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/416.ts
-#EXTINF:-1 tvg-id="RIOSULH" tvg-name="GLOBO TV RIO SUL [SD]" tvg-logo="http://p6.vc/VDB" group-title="Canais | Globo",GLOBO TV RIO SUL [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/452.ts
-#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO TV RJ [FHD]" tvg-logo="http://p6.vc/VCK" group-title="Canais | Globo",GLOBO TV RJ [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/352.ts
-#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO TV RJ [FHD][H265]" tvg-logo="http://p6.vc/VDK" group-title="Canais | Globo",GLOBO TV RJ [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/30204.ts
-#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO TV RJ [HD]" tvg-logo="http://p6.vc/ASY" group-title="Canais | Globo",GLOBO TV RJ [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/392.ts
-#EXTINF:-1 tvg-id="BR - Globo RJ" tvg-name="GLOBO TV RJ [SD]" tvg-logo="http://p6.vc/AUC" group-title="Canais | Globo",GLOBO TV RJ [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/427.ts
-#EXTINF:-1 tvg-id="BR - RPC Curitiba" tvg-name="GLOBO TV RPC CURITIBA [FHD]" tvg-logo="http://p6.vc/ARS" group-title="Canais | Globo",GLOBO TV RPC CURITIBA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/353.ts
-#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="GLOBO TV RPC CURITIBA [HD]" tvg-logo="http://p6.vc/ASZ" group-title="Canais | Globo",GLOBO TV RPC CURITIBA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/393.ts
-#EXTINF:-1 tvg-id="GLRPCHD" tvg-name="GLOBO TV RPC CURITIBA [SD]" tvg-logo="http://p6.vc/AUD" group-title="Canais | Globo",GLOBO TV RPC CURITIBA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/428.ts
-#EXTINF:-1 tvg-id="BR - RPC Foz do Iguaçu HD" tvg-name="GLOBO TV RPC FOZ DO IGUACU [FHD]" tvg-logo="http://p6.vc/ARU" group-title="Canais | Globo",GLOBO TV RPC FOZ DO IGUACU [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/356.ts
-#EXTINF:-1 tvg-id="RGFOZIG" tvg-name="GLOBO TV RPC FOZ DO IGUACU [HD]" tvg-logo="http://p6.vc/ATF" group-title="Canais | Globo",GLOBO TV RPC FOZ DO IGUACU [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/399.ts
-#EXTINF:-1 tvg-id="BR - RPC Foz do Iguaçu HD" tvg-name="GLOBO TV RPC FOZ DO IGUACU [SD]" tvg-logo="http://p6.vc/AUI" group-title="Canais | Globo",GLOBO TV RPC FOZ DO IGUACU [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/436.ts
-#EXTINF:-1 tvg-id="BR - RPC Maringá" tvg-name="GLOBO TV RPC MARINGA [FHD]" tvg-logo="http://p6.vc/ARR" group-title="Canais | Globo",GLOBO TV RPC MARINGA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/351.ts
-#EXTINF:-1 tvg-id="RPCTVMaringa.br" tvg-name="GLOBO TV RPC MARINGA [HD]" tvg-logo="http://p6.vc/ASR" group-title="Canais | Globo",GLOBO TV RPC MARINGA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/384.ts
-#EXTINF:-1 tvg-id="BR - RPC Maringá HD" tvg-name="GLOBO TV RPC MARINGA [SD]" tvg-logo="http://p6.vc/VCT" group-title="Canais | Globo",GLOBO TV RPC MARINGA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/419.ts
-#EXTINF:-1 tvg-id="ZYB411" tvg-name="GLOBO TV RPC PARANAVAI [FHD]" tvg-logo="http://p6.vc/VEK" group-title="Canais | Globo",GLOBO TV RPC PARANAVAI [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/43843.ts
-#EXTINF:-1 tvg-id="ZYB411" tvg-name="GLOBO TV RPC PARANAVAI [HD]" tvg-logo="http://p6.vc/VED" group-title="Canais | Globo",GLOBO TV RPC PARANAVAI [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/43830.ts
-#EXTINF:-1 tvg-id="BR - RPC Paranavaí HD" tvg-name="GLOBO TV RPC PARANAVAI [SD]" tvg-logo="http://p6.vc/VGF" group-title="Canais | Globo",GLOBO TV RPC PARANAVAI [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/121126.ts
-#EXTINF:-1 tvg-id="BR - TV Santa Cruz" tvg-name="GLOBO TV SANTA CRUZ [FHD]" tvg-logo="http://p6.vc/ASP" group-title="Canais | Globo",GLOBO TV SANTA CRUZ [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/382.ts
-#EXTINF:-1 tvg-id="BR - TV Santa Cruz HD" tvg-name="GLOBO TV SANTA CRUZ [HD]" tvg-logo="http://p6.vc/ATV" group-title="Canais | Globo",GLOBO TV SANTA CRUZ [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/417.ts
-#EXTINF:-1 tvg-id="BR - TV Santa Cruz" tvg-name="GLOBO TV SANTA CRUZ [SD]" tvg-logo="http://p6.vc/AUV" group-title="Canais | Globo",GLOBO TV SANTA CRUZ [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/453.ts
-#EXTINF:-1 tvg-id="SERGIHD" tvg-name="GLOBO TV SERGIPE [FHD]" tvg-logo="http://p6.vc/ARX" group-title="Canais | Globo",GLOBO TV SERGIPE [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/359.ts
-#EXTINF:-1 tvg-id="SERGIHD" tvg-name="GLOBO TV SERGIPE [HD]" tvg-logo="http://p6.vc/ATI" group-title="Canais | Globo",GLOBO TV SERGIPE [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/402.ts
-#EXTINF:-1 tvg-id="SERGIHD" tvg-name="GLOBO TV SERGIPE [SD]" tvg-logo="http://p6.vc/AUK" group-title="Canais | Globo",GLOBO TV SERGIPE [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/439.ts
-#EXTINF:-1 tvg-id="BR - Globo SP" tvg-name="GLOBO TV SP [FHD]" tvg-logo="http://p6.vc/ART" group-title="Canais | Globo",GLOBO TV SP [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/354.ts
-#EXTINF:-1 tvg-id="BR - Globo TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU [FHD]" tvg-logo="http://p6.vc/VFR" group-title="Canais | Globo",GLOBO TV TEM BAURU [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/69091.ts
-#EXTINF:-1 tvg-id="BR - Globo TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU [HD]" tvg-logo="http://p6.vc/VFQ" group-title="Canais | Globo",GLOBO TV TEM BAURU [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/69090.ts
-#EXTINF:-1 tvg-id="BR - Globo TV Tem Bauru" tvg-name="GLOBO TV TEM BAURU [SD]" tvg-logo="http://p6.vc/AUW" group-title="Canais | Globo",GLOBO TV TEM BAURU [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/454.ts
-#EXTINF:-1 tvg-id="BR - TV TEM Itapetininga" tvg-name="GLOBO TV TEM ITAPETININGA [FHD]" tvg-logo="http://p6.vc/VGI" group-title="Canais | Globo",GLOBO TV TEM ITAPETININGA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/122753.ts
-#EXTINF:-1 tvg-id="BR - TV TEM Itapetininga" tvg-name="GLOBO TV TEM ITAPETININGA [HD]" tvg-logo="http://p6.vc/VGH" group-title="Canais | Globo",GLOBO TV TEM ITAPETININGA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/122752.ts
-#EXTINF:-1 tvg-id="BR - TV TEM Itapetininga" tvg-name="GLOBO TV TEM ITAPETININGA [SD]" tvg-logo="http://p6.vc/VDR" group-title="Canais | Globo",GLOBO TV TEM ITAPETININGA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/32434.ts
-#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="GLOBO TV TEM S. J. DO RIO PRETO [HD]" tvg-logo="http://p6.vc/ATD" group-title="Canais | Globo",GLOBO TV TEM S. J. DO RIO PRETO [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/397.ts
-#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="GLOBO TV TEM S. J. RIO PRETO [FHD]" tvg-logo="http://p6.vc/VCM" group-title="Canais | Globo",GLOBO TV TEM S. J. RIO PRETO [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/370.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA [FHD]" tvg-logo="http://p6.vc/VFZ" group-title="Canais | Globo",GLOBO TV TEM SOROCABA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/119990.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA [HD]" tvg-logo="http://p6.vc/VFY" group-title="Canais | Globo",GLOBO TV TEM SOROCABA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/119989.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SOROCABA [SD]" tvg-logo="http://p6.vc/VDC" group-title="Canais | Globo",GLOBO TV TEM SOROCABA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/456.ts
 #EXTINF:-1 tvg-id="BR - Globo TV Tribuna" tvg-name="GLOBO TV TRIBUNA SANTOS [FHD]" tvg-logo="http://p6.vc/VFS" group-title="Canais | Globo",GLOBO TV TRIBUNA SANTOS [FHD]
 http://cdn33.cc:80/ribeirinho/gs1200/102041.ts
 #EXTINF:-1 tvg-id="BR - Globo TV Tribuna" tvg-name="GLOBO TV TRIBUNA SANTOS [HD]" tvg-logo="http://p6.vc/VES" group-title="Canais | Globo",GLOBO TV TRIBUNA SANTOS [HD]
 http://cdn33.cc:80/ribeirinho/gs1200/56125.ts
 #EXTINF:-1 tvg-id="BR - Globo TV Tribuna" tvg-name="GLOBO TV TRIBUNA SANTOS [SD]" tvg-logo="http://p6.vc/AUH" group-title="Canais | Globo",GLOBO TV TRIBUNA SANTOS [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/433.ts
-#EXTINF:-1 tvg-id="BR - TV Vanguarda HD" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS [FHD]" tvg-logo="http://p6.vc/VGK" group-title="Canais | Globo",GLOBO TV VANGUARDA S. J. DOS CAMPOS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/122758.ts
-#EXTINF:-1 tvg-id="BR - TV Vanguarda HD" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS [HD]" tvg-logo="http://p6.vc/VGJ" group-title="Canais | Globo",GLOBO TV VANGUARDA S. J. DOS CAMPOS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/122757.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS [SD]" tvg-logo="http://p6.vc/VCX" group-title="Canais | Globo",GLOBO TV VANGUARDA S. J. DOS CAMPOS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/434.ts
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO TV VANGUARDA TAUBATE [FHD]" tvg-logo="http://p6.vc/VFE" group-title="Canais | Globo",GLOBO TV VANGUARDA TAUBATE [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/56179.ts
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO TV VANGUARDA TAUBATE [HD]" tvg-logo="http://p6.vc/VFD" group-title="Canais | Globo",GLOBO TV VANGUARDA TAUBATE [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/56140.ts
-#EXTINF:-1 tvg-id="BR - Globo TV Vanguarda" tvg-name="GLOBO TV VANGUARDA TAUBATE [SD]" tvg-logo="http://p6.vc/VFW" group-title="Canais | Globo",GLOBO TV VANGUARDA TAUBATE [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/110300.ts
-#EXTINF:-1 tvg-id="BR - TV Verdes Mares HD" tvg-name="GLOBO TV VERDES MARES FORTALEZA [FHD]" tvg-logo="http://p6.vc/VFM" group-title="Canais | Globo",GLOBO TV VERDES MARES FORTALEZA [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/65253.ts
-#EXTINF:-1 tvg-id="BR - TV Verdes Mares HD" tvg-name="GLOBO TV VERDES MARES FORTALEZA [HD]" tvg-logo="http://p6.vc/VFL" group-title="Canais | Globo",GLOBO TV VERDES MARES FORTALEZA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/65252.ts
-#EXTINF:-1 tvg-id="São Paulo/SP  Canal do Boi" tvg-name="GLOBO TV VERDES MARES FORTALEZA [SD]" tvg-logo="http://p6.vc/AVB" group-title="Canais | Globo",GLOBO TV VERDES MARES FORTALEZA [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/461.ts
-#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [FHD]" tvg-logo="http://p6.vc/AJZ" group-title="Canais | Infantis",GLOOB [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/136.ts
-#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [FHD][H265]" tvg-logo="http://p6.vc/WJA" group-title="Canais | Infantis",GLOOB [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/30266.ts
-#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [HD]" tvg-logo="http://p6.vc/AKE" group-title="Canais | Infantis",GLOOB [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/142.ts
-#EXTINF:-1 tvg-id="BR - Gloob" tvg-name="GLOOB [SD]" tvg-logo="http://p6.vc/AKR" group-title="Canais | Infantis",GLOOB [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/156.ts
-#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD]" tvg-logo="http://p6.vc/AJR" group-title="Canais | Infantis",GLOOBINHO [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/128.ts
-#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [FHD][H265]" tvg-logo="http://p6.vc/WJD" group-title="Canais | Infantis",GLOOBINHO [FHD][H265]
-http://cdn33.cc:80/ribeirinho/gs1200/30274.ts
-#EXTINF:-1 tvg-id="BR - Gloobinho" tvg-name="GLOOBINHO [HD]" tvg-logo="http://p6.vc/BQO" group-title="Canais | Infantis",GLOOBINHO [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/1068.ts
 #EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT [4K]" tvg-logo="http://p6.vc/VNH" group-title="Canais | 4K",GNT [4K]
 http://cdn33.cc:80/ribeirinho/gs1200/50870.ts
 #EXTINF:-1 tvg-id="BR - GNT" tvg-name="GNT [FHD]" tvg-logo="http://p6.vc/AIT" group-title="Canais | Variedades",GNT [FHD]
@@ -1622,44 +1208,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/30197.ts
 http://cdn33.cc:80/ribeirinho/gs1200/515.ts
 #EXTINF:-1 tvg-id="BR - Record News HD" tvg-name="RECORD NEWS [SD]" tvg-logo="http://p6.vc/AXF" group-title="Canais | Notícias",RECORD NEWS [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/521.ts
-#EXTINF:-1 tvg-id="BR - Record TV Bahia" tvg-name="RECORDTV BA [HD]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",RECORDTV BA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/61.ts
-#EXTINF:-1 tvg-id="BR - RecordTV Belém" tvg-name="RECORDTV BELEM [HD]" tvg-logo="http://p6.vc/AHG" group-title="Canais | Abertos",RECORDTV BELEM [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV CABRALIA BAHIA [HD]" tvg-logo="http://p6.vc/AHF" group-title="Canais | Abertos",RECORDTV CABRALIA BAHIA [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/175466.ts
-#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [HD]" tvg-logo="http://p6.vc/AKE9" group-title="Canais | Abertos",RECORDTV CIDADE [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/186199.ts
-#EXTINF:-1 tvg-id="CIDADEH" tvg-name="RECORDTV CIDADE [SD]" tvg-logo="http://p6.vc/AKE8" group-title="Canais | Abertos",RECORDTV CIDADE [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/186198.ts
-#EXTINF:-1 tvg-id="BR - Record TV Brasília HD" tvg-name="RECORDTV DF [HD]" tvg-logo="http://p6.vc/AHE" group-title="Canais | Abertos",RECORDTV DF [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/60.ts
-#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RECORDTV GO [FHD]" tvg-logo="http://p6.vc/VBK" group-title="Canais | Abertos",RECORDTV GO [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/120717.ts
-#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RECORDTV GO [HD]" tvg-logo="http://p6.vc/AHH" group-title="Canais | Abertos",RECORDTV GO [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/63.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV ITAPOAN (BAHIA) [FHD]" tvg-logo="http://p6.vc/VBE" group-title="Canais | Abertos",RECORDTV ITAPOAN (BAHIA) [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/196523.ts
-#EXTINF:-1 tvg-id="BR - Record TV Bahia" tvg-name="RECORDTV ITAPOAN (BAHIA) [HD]" tvg-logo="http://p6.vc/VBE" group-title="Canais | Abertos",RECORDTV ITAPOAN (BAHIA) [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/69086.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORDTV ITAPOAN (BAHIA) [SD]" tvg-logo="http://p6.vc/VBE" group-title="Canais | Abertos",RECORDTV ITAPOAN (BAHIA) [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/196522.ts
-#EXTINF:-1 tvg-id="BR - Record TV Minas" tvg-name="RECORDTV MG [HD]" tvg-logo="http://p6.vc/AHC" group-title="Canais | Abertos",RECORDTV MG [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/58.ts
-#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RECORDTV RJ [FHD]" tvg-logo="http://p6.vc/VBD" group-title="Canais | Abertos",RECORDTV RJ [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/50880.ts
-#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RECORDTV RJ [HD]" tvg-logo="http://p6.vc/AHB" group-title="Canais | Abertos",RECORDTV RJ [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/57.ts
-#EXTINF:-1 tvg-id="BR - Record TV Rio" tvg-name="RECORDTV RJ [SD]" tvg-logo="http://p6.vc/AHT" group-title="Canais | Abertos",RECORDTV RJ [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/76.ts
-#EXTINF:-1 tvg-id="BR - Record TV RS" tvg-name="RECORDTV RS [FHD]" tvg-logo="http://p6.vc/VBH" group-title="Canais | Abertos",RECORDTV RS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/120714.ts
-#EXTINF:-1 tvg-id="BR - Record TV RS" tvg-name="RECORDTV RS [HD]" tvg-logo="http://p6.vc/AHD" group-title="Canais | Abertos",RECORDTV RS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/59.ts
-#EXTINF:-1 tvg-id="Record.RS.HD.br" tvg-name="RECORDTV RS [SD]" tvg-logo="http://p6.vc/AHD" group-title="Canais | Abertos",RECORDTV RS [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/207356.ts
-#EXTINF:-1 tvg-id="BR - TV Atalaia" tvg-name="RECORDTV SERGIPE (ATALAIA) [HD]" tvg-logo="http://p6.vc/VBC" group-title="Canais | Abertos",RECORDTV SERGIPE (ATALAIA) [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/47374.ts
 #EXTINF:-1 tvg-id="BR - RecordTV São Paulo HD" tvg-name="RecordTV SP [4K]" tvg-logo="http://p6.vc/AZI" group-title="Canais | 4K",RecordTV SP [4K]
 http://cdn33.cc:80/ribeirinho/gs1200/583.ts
 #EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RECORDTV SP [FHD]" tvg-logo="http://p6.vc/AGQ" group-title="Canais | Abertos",RECORDTV SP [FHD]
@@ -1670,16 +1218,8 @@ http://cdn33.cc:80/ribeirinho/gs1200/30178.ts
 http://cdn33.cc:80/ribeirinho/gs1200/52.ts
 #EXTINF:-1 tvg-id="BR - Record TV" tvg-name="RECORDTV SP [SD]" tvg-logo="http://p6.vc/AHK" group-title="Canais | Abertos",RECORDTV SP [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/67.ts
-#EXTINF:-1 tvg-id="BR - Record TV Campinas" tvg-name="RECORDTV THATHI CAMPINAS [FHD]" tvg-logo="http://p6.vc/VBF" group-title="Canais | Abertos",RECORDTV THATHI CAMPINAS [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/92667.ts
-#EXTINF:-1 tvg-id="BR - Record TV Campinas" tvg-name="RECORDTV THATHI CAMPINAS [HD]" tvg-logo="http://p6.vc/VBA" group-title="Canais | Abertos",RECORDTV THATHI CAMPINAS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/32542.ts
-#EXTINF:-1 tvg-id="Rede21.br" tvg-name="REDE 21 [HD]" tvg-logo="http://p6.vc/VRI" group-title="Canais | Religiosos",REDE 21 [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/69081.ts
 #EXTINF:-1 tvg-id="BR - Rede Brasil" tvg-name="REDE BRASIL [SD]" tvg-logo="http://p6.vc/AIE" group-title="Canais | Abertos",REDE BRASIL [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/87.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE PLENITUDE TV [HD]" tvg-logo="http://p6.vc/VQF" group-title="Canais | Religiosos",REDE PLENITUDE TV [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/69082.ts
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [FHD]" tvg-logo="http://p6.vc/VPR" group-title="Canais | Religiosos",REDE VIDA [FHD]
 http://cdn33.cc:80/ribeirinho/gs1200/545.ts
 #EXTINF:-1 tvg-id="BR - Rede Vida" tvg-name="REDE VIDA [HD]" tvg-logo="http://p6.vc/AYC" group-title="Canais | Religiosos",REDE VIDA [HD]
@@ -1698,16 +1238,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/69.ts
 http://cdn33.cc:80/ribeirinho/gs1200/127312.ts
 #EXTINF:-1 tvg-id="Sabor & Arte" tvg-name="SABOR E ARTE [HD]" tvg-logo="" group-title="Canais | Art & Music",SABOR E ARTE [HD]
 http://cdn33.cc:80/ribeirinho/gs1200/127311.ts
-#EXTINF:-1 tvg-id="" tvg-name="SANTA CRUZ WEB TV [HD]" tvg-logo="http://p6.vc/VQA" group-title="Canais | Religiosos",SANTA CRUZ WEB TV [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/53339.ts
-#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ [FHD]" tvg-logo="http://p6.vc/VBX" group-title="Canais | Abertos",SBT RJ [FHD]
-http://cdn33.cc:80/ribeirinho/gs1200/50875.ts
-#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ [HD]" tvg-logo="http://p6.vc/VBW" group-title="Canais | Abertos",SBT RJ [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/50874.ts
-#EXTINF:-1 tvg-id="BR - SBT Rio" tvg-name="SBT RJ [SD]" tvg-logo="http://p6.vc/VBV" group-title="Canais | Abertos",SBT RJ [SD]
-http://cdn33.cc:80/ribeirinho/gs1200/134565.ts
-#EXTINF:-1 tvg-id="BR - SBT RS" tvg-name="SBT RS [HD]" tvg-logo="http://p6.vc/VBV" group-title="Canais | Abertos",SBT RS [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/49111.ts
 #EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP [4K]" tvg-logo="http://p6.vc/AZL" group-title="Canais | 4K",SBT SP [4K]
 http://cdn33.cc:80/ribeirinho/gs1200/587.ts
 #EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT SP [FHD]" tvg-logo="http://p6.vc/VBQ" group-title="Canais | Abertos",SBT SP [FHD]
@@ -1716,8 +1246,6 @@ http://cdn33.cc:80/ribeirinho/gs1200/46.ts
 http://cdn33.cc:80/ribeirinho/gs1200/55.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT SP [SD]" tvg-logo="http://p6.vc/VBQ" group-title="Canais | Abertos",SBT SP [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/174142.ts
-#EXTINF:-1 tvg-id="BR - TV Jangadeiro" tvg-name="SBT TV JANGADEIRO [HD]" tvg-logo="http://p6.vc/VCB" group-title="Canais | Abertos",SBT TV JANGADEIRO [HD]
-http://cdn33.cc:80/ribeirinho/gs1200/134102.ts
 #EXTINF:-1 tvg-id="BR - SBT" tvg-name="SBT [FHD][H265]" tvg-logo="http://p6.vc/VBS" group-title="Canais | Abertos",SBT [FHD][H265]
 http://cdn33.cc:80/ribeirinho/gs1200/30179.ts
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT [HD]" tvg-logo="http://p6.vc/AHN" group-title="Canais | Abertos",SBT [HD]
@@ -2382,3 +1910,61 @@ http://cdn33.cc:80/ribeirinho/gs1200/108988.ts
 http://cdn33.cc:80/ribeirinho/gs1200/108987.ts
 #EXTINF:-1 tvg-id="BR - Zoomoo" tvg-name="ZOOMOO [SD]" tvg-logo="http://p6.vc/WIW" group-title="Canais | Infantis",ZOOMOO [SD]
 http://cdn33.cc:80/ribeirinho/gs1200/163.ts
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [FHD]" tvg-logo="http://p6.vc/VNO" group-title="Canais | Variedades",LOADING [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/58245.ts
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [HD]" tvg-logo="http://p6.vc/VNQ" group-title="Canais | Variedades",LOADING [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/58247.ts
+#EXTINF:-1 tvg-id="BR - Loading" tvg-name="LOADING [SD]" tvg-logo="http://p6.vc/VNP" group-title="Canais | Variedades",LOADING [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/58246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luta Exclusivas [FHD]" tvg-logo="" group-title="Canais | Jogos & Eventos",Luta Exclusivas [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/139221.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO4" group-title="Canais | HBO Max [Champions League]",MAX 1 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199969.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [FHD]" tvg-logo="http://p6.vc/BJU8" group-title="Canais | HBO Max [Champions League]",MAX 1 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195782.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [HD]" tvg-logo="http://p6.vc/OOF" group-title="Canais | HBO Max [Champions League]",MAX 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/92846.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [HD]" tvg-logo="http://p6.vc/BHZ2" group-title="Canais | HBO Max [Champions League]",MAX 1 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195788.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 1 [SD]" tvg-logo="http://p6.vc/BHZ8" group-title="Canais | HBO Max [Champions League]",MAX 1 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195794.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO3" group-title="Canais | HBO Max [Champions League]",MAX 2 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199968.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [FHD]" tvg-logo="http://p6.vc/BJU9" group-title="Canais | HBO Max [Champions League]",MAX 2 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195783.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [HD]" tvg-logo="http://p6.vc/BHZ3" group-title="Canais | HBO Max [Champions League]",MAX 2 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195789.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 2 [SD]" tvg-logo="http://p6.vc/BHZ9" group-title="Canais | HBO Max [Champions League]",MAX 2 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195795.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO2" group-title="Canais | HBO Max [Champions League]",MAX 3 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199967.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [FHD]" tvg-logo="http://p6.vc/BJV0" group-title="Canais | HBO Max [Champions League]",MAX 3 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195784.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [HD]" tvg-logo="http://p6.vc/BHZ4" group-title="Canais | HBO Max [Champions League]",MAX 3 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195790.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 3 [SD]" tvg-logo="http://p6.vc/BIA0" group-title="Canais | HBO Max [Champions League]",MAX 3 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195796.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO1" group-title="Canais | HBO Max [Champions League]",MAX 4 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199966.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [FHD]" tvg-logo="http://p6.vc/BJV1" group-title="Canais | HBO Max [Champions League]",MAX 4 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195785.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [HD]" tvg-logo="http://p6.vc/BHZ5" group-title="Canais | HBO Max [Champions League]",MAX 4 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195791.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 4 [SD]" tvg-logo="" group-title="Canais | HBO Max [Champions League]",MAX 4 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195797.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [ALTER] [HD]" tvg-logo="http://p6.vc/BIO0" group-title="Canais | HBO Max [Champions League]",MAX 5 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199965.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [FHD]" tvg-logo="http://p6.vc/BJV2" group-title="Canais | HBO Max [Champions League]",MAX 5 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195786.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [HD]" tvg-logo="http://p6.vc/BHZ6" group-title="Canais | HBO Max [Champions League]",MAX 5 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195792.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 5 [SD]" tvg-logo="" group-title="Canais | HBO Max [Champions League]",MAX 5 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195798.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [ALTER] [HD]" tvg-logo="http://p6.vc/BIN9" group-title="Canais | HBO Max [Champions League]",MAX 6 [ALTER] [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/199964.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [FHD]" tvg-logo="http://p6.vc/BJV3" group-title="Canais | HBO Max [Champions League]",MAX 6 [FHD]
+http://cdn33.cc:80/ribeirinho/gs1200/195787.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [HD]" tvg-logo="http://p6.vc/BHZ7" group-title="Canais | HBO Max [Champions League]",MAX 6 [HD]
+http://cdn33.cc:80/ribeirinho/gs1200/195793.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX 6 [SD]" tvg-logo="" group-title="Canais | HBO Max [Champions League]",MAX 6 [SD]
+http://cdn33.cc:80/ribeirinho/gs1200/195799.ts
